@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+Django = "==2.0.3"
+celery = "==4.1.0"
+redis = "==2.10.6"
+django_celery_beat = "==1.1.1"
+django = "*"
+"psycopg2" = "*"
+
+[requires]
+python_version = "3.5"

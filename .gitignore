@@ -1,0 +1,8 @@
+bin
+include
+lib
+thepythontest/thepythontest/__pycache__/
+thepythontest/thepythontest/*.pyc
+thepythontest/questions/__pycache__/
+thepythontest/questions/*.pyc
+thepythontest/questions/migrations/__pycache__/
