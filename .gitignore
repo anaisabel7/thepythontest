@@ -6,3 +6,4 @@ thepythontest/thepythontest/*.pyc
 thepythontest/questions/__pycache__/
 thepythontest/questions/*.pyc
 thepythontest/questions/migrations/__pycache__/
+thepythontest/questions/tests/__pycache__/
