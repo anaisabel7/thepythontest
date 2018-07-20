@@ -4,10 +4,6 @@ from django.test import TestCase
 from questions.models import User, Question, Answer
 
 
-def test():
-    True
-
-
 class QuestionModelTest(TestCase):
 
     def test_fields(self):
