@@ -1,0 +1,9 @@
+body {
+    background: #ffe793;
+    color: #5b0463;
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+.index .title {
+    font-size: 60px;
+}
